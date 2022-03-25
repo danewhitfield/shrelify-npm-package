@@ -1,0 +1,24 @@
+{
+  "name": "shrelify",
+  "version": "1.0.0",
+  "description": "Want to shrel your life up?",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danewhitfield/shrelify-npm-package.git"
+  },
+  "keywords": [
+    "shrelify",
+    "shrel",
+    "shrek"
+  ],
+  "author": "danewhitfield",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danewhitfield/shrelify-npm-package/issues"
+  },
+  "homepage": "https://github.com/danewhitfield/shrelify-npm-package#readme"
+}
