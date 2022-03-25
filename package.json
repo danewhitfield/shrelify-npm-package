@@ -1,6 +1,6 @@
 {
-  "name": "shrelify",
-  "version": "1.0.0",
+  "name": "shrelify-ubuntu",
+  "version": "1.0.1",
   "description": "Want to shrel your life up?",
   "main": "app.js",
   "scripts": {
@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/danewhitfield/shrelify-npm-package/issues"
   },
-  "homepage": "https://github.com/danewhitfield/shrelify-npm-package#readme"
+  "homepage": "https://github.com/danewhitfield/shrelify-npm-package#readme",
+  "dependencies": {
+    "homedir": "^0.6.0"
+  }
 }
