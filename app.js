@@ -1,4 +1,6 @@
 const fs = require("fs/promises");
+const homedir = require("os").homedir();
+const home = `${homedir}/.config/Code/User/settings.json`;
 
 function shrelify() {
   const shrelSettings = `{
@@ -20,7 +22,9 @@ function shrelify() {
     },
   }`;
 
-  fs.writeFile("../../.config/Code/User/settings.json", shrelSettings);
+  fs.writeFile(home, shrelSettings);
 }
+
+console.log("home:", home);
 
 module.exports = shrelify;
