@@ -38,11 +38,11 @@ If for some bizarre reason you would like to revert back, here's how...
 
 Underneath 'Color Customizations' select 'Edit in settings.json'
 
-Once in the JSON file you can remove this section:
+Once in the JSON file you can remove this whole section:
 
 ```
 "workbench.colorCustomizations": {
-      "terminal.foreground": "#00fd61",
+      ...
 }
 ```
 
