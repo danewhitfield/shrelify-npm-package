@@ -7,7 +7,7 @@
 To install this beautiful package, simply type into your project terminal:
 
 ```
-npm i shrelify
+npm i shrelify-ubuntu
 ```
 
 Once you have the Shrelify package installed you can require it in:
