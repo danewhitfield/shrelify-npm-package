@@ -4,7 +4,7 @@
 
 ### Shrel style <3
 
-USE:
+To install this beautiful package, simply type into your project terminal:
 
 ```
 npm i shrelify
