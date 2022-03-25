@@ -2,7 +2,9 @@
 
 ## This package will turn your console and output text colours to green!
 
-### Shrel style <3
+### you'll also have awesome green accent colours almost everywhere!
+
+### Shrel is love <3
 
 To install this beautiful package, simply type into your project terminal:
 

@@ -19,6 +19,18 @@ function shrelify() {
   
     "workbench.colorCustomizations": {
       "terminal.foreground": "#00fd61",
+      "errorForeground": "#fd0000",
+      "scrollbarSlider.background": "#00fd61",
+      "sideBar.foreground": "#00fd61",
+      "sideBarTitle.foreground": "#00fd61",
+      "sideBarSectionHeader.foreground": "#00fd61",
+    "panelTitle.activeForeground": "#00fd61",
+    "panelTitle.inactiveForeground": "#009b05",
+    "statusBar.foreground": "#00fd61",
+    "statusBar.border": "#00fd61",
+    "notificationCenterHeader.foreground": "#00fd61",
+    "notifications.foreground": "#00fd61",
+    "notificationLink.foreground": "#00fd61",
     },
   }`;
 
